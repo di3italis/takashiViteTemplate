@@ -9,7 +9,7 @@ The index.css is standard from boilerplate build.
 To clone this repo, paste this command into your terminal:
 
 ```js
-npx tiged <di3italis>/vite-template#main <new-project-name>
+npx tiged di3italis/takashiViteTemplate#main <new-project-name>
 ```
 
 Next, cd into the root diectory you just created, the run the following commands which will install dependencies, and start the app!
